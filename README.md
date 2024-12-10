@@ -1,7 +1,7 @@
 
 # Student Management Software
 
-Created as a project for one of my module in my Computer Science course, SC1003, intro to computational thinking. The goal is to improve on this project to create a software with features for managing students. 
+Created as a project for one of my modules in my Computer Science course, SC1003, intro to computational thinking. The goal is to improve on this project to create a software with features for managing students. 
 
 ## Built With
 
